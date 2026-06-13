@@ -79,6 +79,8 @@ java -cp out legacycinema.LegacyCinemaApp
 
 ---
 
+📸 Preview
+
 
 
 ## 🎓 About
