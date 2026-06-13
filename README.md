@@ -1,6 +1,9 @@
 # 🎬 Legacy Cinema
 
 A full-featured **cinema booking desktop application** built with Java Swing as a 1st-year CS project at Nile University.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-GUI-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
 
