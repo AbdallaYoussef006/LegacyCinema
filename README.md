@@ -80,7 +80,37 @@ java -cp out legacycinema.LegacyCinemaApp
 ---
 
 📸 Preview
+## 📸 Preview
 
+### 🌌 Splash Screen
+![Splash](screenshots/01-splash.jpg)
+
+### 🎬 Home Screen
+![Home](screenshots/02-home.jpg)
+
+### 🎥 Movie Details
+![Movie Detail](screenshots/04-movie-detail.jpg)
+
+### 🗓️ Showtimes
+![Showtimes](screenshots/05-showtimes.jpg)
+
+### 💺 Seat Selection
+![Seats](screenshots/03-seats.jpg)
+
+### 🍿 Food & Snacks
+![Food](screenshots/06-food.jpg)
+
+### 🛒 Cart
+![Cart](screenshots/07-cart.jpg)
+
+### 💳 Payment
+![Payment](screenshots/08-payment.jpg)
+
+### 👤 My Profile
+![Profile](screenshots/09-profile.jpg)
+
+### 🎞️ Full Movie Grid
+![Movies](screenshots/10-movies.jpg)
 
 
 ## 🎓 About
